@@ -4,7 +4,7 @@
 ## Resources
 * Video: https://youtu.be/1IxqsIWCbuc
 * Rails Guide Documentation: http://guides.rubyonrails.org/testing.html#functional-tests-for-your-controllers
-* Devise Documentation: https://github.com/plataformatec/devise
+* Devise Documentation: https://github.com/plataformatec/devise#integration-tests
  
 ## Goals
 * Test Page with No Authentication ([6:15](https://youtu.be/1IxqsIWCbuc?t=6m15s))
